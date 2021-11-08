@@ -13,7 +13,7 @@ Persönliche Takeaways :
 + Ich fühlte mich bestätigt, dass ich gerne (noch mehr) code
 + Die Lernkurve war auch hier sehr steil
 
-– Eine Präzise Umsetzung war schwierig für mich
-– Einzelne JavaScript Aktionen sind noch tricky
+- Eine Präzise Umsetzung war schwierig für mich
+[-] Einzelne JavaScript Aktionen sind noch tricky
 
 Ich bin gespannt auf dein Feedback.
